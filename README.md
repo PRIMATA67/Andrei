@@ -23,7 +23,7 @@ Aqui você pode usar badges para deixar o perfil visualmente incrível:
 
 ### 📈 Estatísticas do GitHub
 
-*Substitua "SEU_USUARIO" pelo seu nickname do GitHub nas linhas abaixo:*
+*Substitua "PRIMATA67" pelo seu nickname do GitHub nas linhas abaixo:*
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
